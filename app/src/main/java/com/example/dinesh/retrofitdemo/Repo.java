@@ -11,6 +11,7 @@ import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
 
 // Created by Dinesh Kumar on 6/26/2019
+
 public class Repo {
     static private Repo _instance;
     private static Retrofit retrofit;
