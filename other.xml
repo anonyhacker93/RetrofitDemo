@@ -1,0 +1,110 @@
+<application>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_VIEW_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_VIEW_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.LI_VIEW_TREE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Layout Inspector.TOOL_ORDER" value="LI_VIEW_TREE,LI_PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.AUTO_HIDE" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.LEFT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.PROPERTIES.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.PALETTE.SPLIT" value="false" />
+    <property name="ATTACHED_TOOL_WINDOW.DEFAULT.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.LEFT.UNSCALED.WIDTH" value="523" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.LI_VIEW_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Layout Inspector.TOOL_ORDER" value="LI_VIEW_TREE,LI_PROPERTIES" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.COMPONENT_TREE.SPLIT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.PROPERTIES.MINIMIZED" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.RIGHT.UNSCALED.WIDTH" value="250" />
+    <property name="ATTACHED_TOOL_WINDOW.NELE_EDITOR.TOOL_ORDER" value="PALETTE,PROPERTIES,COMPONENT_TREE" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.LEFT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.AUTO_HIDE" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.LEFT" value="true" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.PALETTE.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.RIGHT.UNSCALED.WIDTH" value="225" />
+    <property name="ATTACHED_TOOL_WINDOW.Preview.TOOL_ORDER" value="PALETTE" />
+    <property name="AndroidInitConfigurator.V1" value="true" />
+    <property name="AndroidInitConfigurator.V3" value="true" />
+    <property name="AndroidInitConfigurator.V5" value="true" />
+    <property name="AndroidPlatformName" value="Android API 16 Platform" />
+    <property name="ColorChooser.RecentColors" value="255-193-7-255,,,156-23-31-255,,,214-73-144-255,,,255-255-255-255" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6314031" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.6537842" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="File Header" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="variable&#10;extract&#10;collapse" />
+    <property name="LOG_FILTER_HISTORY" value="DineshTag&#10;Dines&#10;Dinesh&#10;LOG :&#10;LOG" />
+    <property name="LayoutCode.optimizeImports" value="true" />
+    <property name="LayoutCode.processChangedText" value="false" />
+    <property name="LayoutCode.rearrangeEntries" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="NlScreenMode" value="SCREEN_ONLY" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SAVED_ANDROID_NPW_LANGUAGE" value="Kotlin" />
+    <property name="SAVED_ANDROID_PACKAGE" value="com.example" />
+    <property name="SearchEveryWhereHistory" value="TwitterApi&#10;R.java&#10;MapMa&#10;Const&#10;Cons" />
+    <property name="SettingsSearchHistory" value="git&#10;git int&#10;vcs&#10;File and Code Templates&#10;shortcut" />
+    <property name="ShowDocumentationInToolWindow" value="false" />
+    <property name="Vcs.Log.Text.Filter.History" value="61a36cc&#10;0844c84&#10;9415dea&#10;abhishek" />
+    <property name="Vcs.Push.Splitter.Proportion" value="0.6666666" />
+    <property name="android-component-compatibility-check" value="1561696577477" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Build.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="create.project.preferred.importer" value="Existing Sources" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="file.chooser.recent.files" value="D:/Meritech Project Works/Bluetooth Client Mode/Sigma-BTMaster/RetrofitDemo&#10;D:/Projects/GitHub/MVVM_RX/Tweetz-master/Tweetz-master&#10;C:/Users/admin/Desktop/expand-button.svg&#10;C:/Users/admin/Desktop/expand-arrow.svg&#10;D:/Meritech Project Works/Bluetooth Client Mode/meritechDecompile&#10;D:/Meritech Project Works/Bluetooth Client Mode/meritechDecompile.7z&#10;D:/Meritech Project Works/Bluetooth Client Mode/Sigma-BTMaster/Sigma-BTMaster&#10;D:/Projects/Sigma-ML Git_Bluetooth&#10;D:/Projects/android-samples-master/android-samples-master/ApiDemos/java&#10;D:/Projects/android-samples-master/android-samples-master&#10;D:/Projects/mvvm-sample-app-master/mvvm-sample-app-master&#10;D:/Projects/AndroidStudio/Sigma-ML%20Git&#10;D:/Projects/Temp Workspace&#10;D:/Projects/AndroidStudio/Sigma-ML5%4&#10;C:/Users/admin/Desktop/New folder/3d(1).svg&#10;C:/Users/admin/Desktop/Android  Help Desk/SigmaMLNew5_0Key.jks&#10;D:/Projects&#10;D:/Projects/AndroidStudio&#10;D:/Projects/AndroidStudio/Lite&#10;D:/Meritech Project Works/Lite/SigmaMLNew5_0Key.jks&#10;D:/Projects/GitHub/android-maps-utils-master/android-maps-utils-master&#10;D:/Projects/AndroidStudio/Lite/Sigma-ML%20Lite/app/src/main/java/meritech/sigma/ui/card&#10;D:/Projects/AndroidStudio/Lite/Sigma-ML%20Lite&#10;D:/Projects/GitHub/Google Map/android-maps-directions-master&#10;D:/Projects/GitHub/New/AndroidQuiz&#10;D:/Projects/GitHub/New/QuizAdmin&#10;D:/Project Works/Lite/Theme/Icons/New_3Jan/New_3Jan/Voice Call_new.svg&#10;D:/Project Works/Lite/Theme/Icons/New_3Jan/New_3Jan/Throughput_Option2_new.svg&#10;D:/Project Works/Lite/Theme/Icons/New_3Jan/New_3Jan/RF _Option1_new.svg&#10;D:/Project Works/Lite/Theme/Icons/New_3Jan/New_3Jan/Call Drop_new.svg" />
+    <property name="file.gist.reindex.count" value="53521" />
+    <property name="installed.kotlin.plugin.version" value="1.3.31-release-Studio3.4-1" />
+    <property name="kotlin.lastUpdateCheck" value="1561642166631" />
+    <property name="kotlin.plugin.releaseDate" value="1.3.31-release-Studio3.4-1:2019-04-25" />
+    <property name="last.imported.location" value="D:/Projects/GitHub/Google Map/android-maps-directions-master" />
+    <property name="lastTip" value="17" />
+    <property name="vcs.log.changes.splitter.proportion" value="0.5815565" />
+    <property name="vcs.log.details.splitter.proportion" value="0.9747475" />
+  </component>
+  <component name="RecentTaskRepositories">
+    <GitHub shared="false" url="https://github.com">
+      <option name="assignedIssuesOnly" value="true" />
+      <commitMessageFormat>{id} {summary}</commitMessageFormat>
+      <token>dfccdfccdf9cdfcedf9cdf9cdf9cdf9fdf9ddf9adfcedf9adfcedfc9dfcfdf9ddfc8dfc8df9cdfcedfcedfccdf9edfccdfcfdfc8df9edf92df99df9fdfcfdfc8df99dfc8df9bdfcedfc9dfc9dfcfdf92</token>
+      <option name="loginAnonymously" value="false" />
+      <option name="preferredCloseTaskState" />
+      <option name="preferredOpenTaskState" />
+      <option name="repoAuthor" value="Dinesh" />
+      <option name="repoName" value="RetrofitRXAndMVVMDemo" />
+      <option name="shouldFormatCommitMessage" value="false" />
+      <option name="useHttpAuthentication" value="false" />
+      <option name="useProxy" value="false" />
+      <option name="user" value="" />
+      <username />
+    </GitHub>
+  </component>
+</application>
