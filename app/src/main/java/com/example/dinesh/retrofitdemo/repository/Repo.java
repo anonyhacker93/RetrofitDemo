@@ -1,11 +1,13 @@
-package com.example.dinesh.retrofitdemo;
+package com.example.dinesh.retrofitdemo.repository;
 
 import android.app.Application;
+
+import com.example.dinesh.retrofitdemo.api.DataFetchService;
+import com.example.dinesh.retrofitdemo.model.Data;
 
 import java.util.List;
 
 import io.reactivex.Single;
-import retrofit2.Call;
 import retrofit2.Retrofit;
 import retrofit2.adapter.rxjava2.RxJava2CallAdapterFactory;
 import retrofit2.converter.gson.GsonConverterFactory;
@@ -23,25 +25,6 @@ public class Repo {
         }
         retrofit = getRetrofit();
         return _instance;
-    }
-
-
-  /*  public Observable<List<Data>> getObservable() {
-        retrofit = new Retrofit.Builder()
-                .baseUrl(url)
-                .addConverterFactory(GsonConverterFactory.create())
-                .addCallAdapterFactory(RxJava2CallAdapterFactory.create())
-                .build();
-        DataFetchService dataFetchService = retrofit.create(DataFetchService.class);
-        Call<List<Data>> listObservable = dataFetchService.getDataList();
-        return listObservable;
-    }*/
-
-    public Call<List<Data>> getCallable() {
-
-        DataFetchService dataFetchService = retrofit.create(DataFetchService.class);
-        Call<List<Data>> listCall = dataFetchService.getDataList();
-        return listCall;
     }
 
     public Single<List<Data>> getSingleObservable() {

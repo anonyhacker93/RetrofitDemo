@@ -4,7 +4,7 @@
     <data>
         <variable
             name="dataInfo"
-            type="com.example.dinesh.retrofitdemo.Data"></variable>
+            type="com.example.dinesh.retrofitdemo.model.Data"></variable>
     </data>
 
     <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"

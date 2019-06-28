@@ -1,10 +1,13 @@
-package com.example.dinesh.retrofitdemo;
+package com.example.dinesh.retrofitdemo.viewmodel;
 
 import android.app.Application;
 import android.util.Log;
 
 import androidx.lifecycle.AndroidViewModel;
 import androidx.lifecycle.MutableLiveData;
+
+import com.example.dinesh.retrofitdemo.model.Data;
+import com.example.dinesh.retrofitdemo.repository.Repo;
 
 import java.util.List;
 
@@ -32,20 +35,6 @@ public class MainActivityViewModel extends AndroidViewModel {
     private void init() {
         Log.i("DineshTag", "View Model init");
         mRepo = Repo.getInstance(mApplication);
-
-       /* mRepo.getCallable().enqueue(new Callback<List<Data>>() {
-            @Override
-            public void onResponse(Call<List<Data>> call, Response<List<Data>> response) {
-                List<Data> dataList = response.body();
-                Log.i("DineshTag", "Data size : " + dataList.size());
-                mutableLiveData.postValue(dataList);
-            }
-
-            @Override
-            public void onFailure(Call<List<Data>> call, Throwable t) {
-
-            }
-        });*/
 
         mRepo.getSingleObservable().subscribeOn(Schedulers.io())
                 .observeOn(AndroidSchedulers.mainThread())

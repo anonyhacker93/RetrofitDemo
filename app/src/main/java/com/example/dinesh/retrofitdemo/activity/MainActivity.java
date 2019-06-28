@@ -1,4 +1,4 @@
-package com.example.dinesh.retrofitdemo;
+package com.example.dinesh.retrofitdemo.activity;
 
 
 import android.app.ProgressDialog;
@@ -10,6 +10,11 @@ import androidx.lifecycle.Observer;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+
+import com.example.dinesh.retrofitdemo.R;
+import com.example.dinesh.retrofitdemo.adapter.DataRecyclerViewAdapter;
+import com.example.dinesh.retrofitdemo.model.Data;
+import com.example.dinesh.retrofitdemo.viewmodel.MainActivityViewModel;
 
 import java.util.ArrayList;
 import java.util.List;

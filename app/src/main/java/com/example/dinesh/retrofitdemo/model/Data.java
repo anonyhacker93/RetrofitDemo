@@ -1,4 +1,4 @@
-package com.example.dinesh.retrofitdemo;
+package com.example.dinesh.retrofitdemo.model;
 
 // Created by Dinesh Kumar on 6/26/2019
 public class Data {

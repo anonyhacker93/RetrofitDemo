@@ -1,4 +1,4 @@
-package com.example.dinesh.retrofitdemo;
+package com.example.dinesh.retrofitdemo.adapter;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
@@ -7,8 +7,9 @@ import androidx.annotation.NonNull;
 import androidx.databinding.DataBindingUtil;
 import androidx.recyclerview.widget.RecyclerView;
 
-
+import com.example.dinesh.retrofitdemo.R;
 import com.example.dinesh.retrofitdemo.databinding.LayoutRowBinding;
+import com.example.dinesh.retrofitdemo.model.Data;
 
 import java.util.List;
 
